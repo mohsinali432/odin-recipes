@@ -1,0 +1,104 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(253, 245, 235);
+  margin: 0;
+}
+.recipe-head {
+  width: auto;
+  height: 60px;
+  padding-top: 10px;
+  padding-left: 60px;
+  margin-top: 40px;
+  background-color: orange;
+}
+
+.odin {
+  color: rgb(236, 99, 14);
+  margin-top: 0;
+  margin-left: 70px;
+  padding-top: 40px;
+}
+.home {
+  display: inline;
+  font-weight: 900;
+  padding: 10px;
+  font-size: 1rem;
+  margin: 20px;
+  background-color: orange;
+}
+a {
+  color: white;
+}
+.main {
+  padding: 10px;
+  padding-left: 60px;
+  background-color: blue;
+}
+.nav {
+  background-color: rgb(230, 230, 252);
+}
+
+.image {
+  border-radius: 5%;
+  margin-left: 60px;
+  width: 700px;
+  height: auto;
+  margin-top: 20px;
+}
+.recipe-sec {
+  margin-left: 60px;
+  font-style: italic;
+  margin-top: 20px;
+}
+.para {
+  color: rgb(25, 25, 25);
+  margin-left: 60px;
+  margin-right: 800px;
+}
+.third {
+  background-color: powderblue;
+  width: auto;
+  height: auto;
+  color: rgb(122, 0, 0);
+  padding: 5px;
+  padding-left: 60px;
+}
+
+ol li {
+  background-color: rgb(224, 255, 245);
+  margin-bottom: 30px;
+  padding: 20px;
+  margin-left: 30px;
+  color: rgb(70, 0, 96);
+  border-radius: 10px;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  border: auto;
+  padding-right: auto;
+}
+ul li {
+  background-color: rgb(224, 255, 245);
+  margin-bottom: 20px;
+  max-width: 200px;
+  margin-left: 30px;
+  color: rgb(70, 0, 96);
+  border-radius: 10px;
+  border: 0;
+  width: auto;
+  height: auto;
+  padding: 20px;
+}
+.back {
+  background-color: blue;
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+  margin-bottom: 100px;
+  margin-top: 60px;
+  margin-right: auto;
+  border-radius: 10px;
+}
